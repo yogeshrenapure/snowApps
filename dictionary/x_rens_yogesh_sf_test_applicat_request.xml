@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sf_sm_flow" label="Yogesh Test Applicat Request Flow" max_length="40" name="x_rens_yogesh_sf_test_applicat_request" type="collection"/>
+</database>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_rens_yogesh_test_applicat_request</collection>
+        <condition>current.state==7 &amp;&amp; (new global.StateFlow().validFlow(current, 'ec5112da0fd203000c8dcd8ce1050ecd', 'automatic'));</condition>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Cancellation</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[new global.StateFlow().processFlow(current, 'ec5112da0fd203000c8dcd8ce1050ecd', 'automatic');]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e45112da0fd203000c8dcd8ce1050ece</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cancellation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_script_e45112da0fd203000c8dcd8ce1050ece</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:21</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=e45112da0fd203000c8dcd8ce1050ece"/>
+</record_update>

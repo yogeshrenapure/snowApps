@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9b41de9a0fd203000c8dcd8ce1050e8b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_rens_yogesh_test_applicat_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request initiator is not done describing the work</hint>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f41de9a0fd203000c8dcd8ce1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is ready to be assigned</hint>
+            <inactive>false</inactive>
+            <label>Pending Assignment</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4341de9a0fd203000c8dcd8ce1050e7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, pending agent acceptance</hint>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8341de9a0fd203000c8dcd8ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, acknowledged and pending work to start</hint>
+            <inactive>false</inactive>
+            <label>Accepted</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5741de9a0fd203000c8dcd8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has started</hint>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b41de9a0fd203000c8dcd8ce1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has been completed to specification</hint>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b41de9a0fd203000c8dcd8ce1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work could not be completed as specified</hint>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5341de9a0fd203000c8dcd8ce1050ea1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task has been cancelled</hint>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f41de9a0fd203000c8dcd8ce1050ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0741de9a0fd203000c8dcd8ce1050e7d</sys_id>
+            <sys_mod_count>13</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Yogesh Test Applicat" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Yogesh Test Applicat">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+            <sys_update_name>sys_choice_x_rens_yogesh_test_applicat_task_state</sys_update_name>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9d715ada0fd203000c8dcd8ce1050e72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work In Progress</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_metadata_link_9d715ada0fd203000c8dcd8ce1050e72</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:57</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

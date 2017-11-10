@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6b61d6da0fd203000c8dcd8ce1050ec7" sys_domain="global" table="x_rens_yogesh_sf_test_applicat_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a361d6da0fd203000c8dcd8ce1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_rens_yogesh_sf_test_applicat_request" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6b61d6da0fd203000c8dcd8ce1050ec7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6b61d6da0fd203000c8dcd8ce1050ec4</sys_ui_section>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e761d6da0fd203000c8dcd8ce1050ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_rens_yogesh_sf_test_applicat_request" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6b61d6da0fd203000c8dcd8ce1050ec7</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">ab61d6da0fd203000c8dcd8ce1050ecc</sys_ui_section>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2361d6da0fd203000c8dcd8ce1050ed6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_rens_yogesh_sf_test_applicat_request" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6b61d6da0fd203000c8dcd8ce1050ec7</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6761d6da0fd203000c8dcd8ce1050ed3</sys_ui_section>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef61d6da0fd203000c8dcd8ce1050eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_rens_yogesh_sf_test_applicat_request" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">6b61d6da0fd203000c8dcd8ce1050ec7</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_rens_yogesh_sf_test_applicat_request" sys_domain="global" view="Default view">ef61d6da0fd203000c8dcd8ce1050ee7</sys_ui_section>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_rens_yogesh_sf_test_applicat_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b61d6da0fd203000c8dcd8ce1050ec7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_rens_yogesh_sf_test_applicat_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6b61d6da0fd203000c8dcd8ce1050ec7</sys_update_name>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

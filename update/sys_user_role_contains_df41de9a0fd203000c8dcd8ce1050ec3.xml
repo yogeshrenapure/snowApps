@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="territory_user" name="territory_user">4616cf7d37311000deeabfc8bcbe5d0b</contains>
+        <role display_value="x_rens_yogesh_basic" name="x_rens_yogesh_basic">9741de9a0fd203000c8dcd8ce1050eb3</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>df41de9a0fd203000c8dcd8ce1050ec3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>territory_user.x_rens_yogesh_basic</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_user_role_contains_df41de9a0fd203000c8dcd8ce1050ec3</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:16</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

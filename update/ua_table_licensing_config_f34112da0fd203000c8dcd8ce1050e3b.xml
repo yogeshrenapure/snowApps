@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_rens_yogesh_sf_test_applicat_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:18</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f34112da0fd203000c8dcd8ce1050e3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rens_yogesh_sf_test_applicat_request</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>ua_table_licensing_config_f34112da0fd203000c8dcd8ce1050e3b</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:18</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

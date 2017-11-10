@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_rens_yogesh_sf_test_applicat_task">
+    <x_rens_yogesh_sf_test_applicat_task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script><![CDATA[current.acknowledged_on = new GlideDateTime();
+if ((new sn_sm.SMConfiguration()).isEnabled(current, "part_requirement", false))
+	(new global.SMStockRooms()).findCreatePersonalStockroom(current.assigned_to);]]></automatic_script>
+        <automatic_string>!(new sn_sm.SMConfiguration()).isEnabled(current, "accept_reject", false)</automatic_string>
+        <business_rule display_value="Accept">b85112da0fd203000c8dcd8ce1050efe</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>Yogesh Test Applicat Request State flow</comment>
+        <derived_from display_value="Accept">25feb353df312100dca6a5f59bf263e5</derived_from>
+        <end_text>17</end_text>
+        <ending_state display_value="Accepted">5741de9a0fd203000c8dcd8ce1050e87</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string/>
+        <name>Accept</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010014</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>16</start_text>
+        <starting_state display_value="Assigned">8341de9a0fd203000c8dcd8ce1050e83</starting_state>
+        <sys_class_name>x_rens_yogesh_sf_test_applicat_task</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f05112da0fd203000c8dcd8ce1050efe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>x_rens_yogesh_sf_test_applicat_task_f05112da0fd203000c8dcd8ce1050efe</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:22</sys_updated_on>
+        <table>x_rens_yogesh_test_applicat_task</table>
+        <translated_ending_state>Accepted</translated_ending_state>
+        <translated_starting_state>Assigned</translated_starting_state>
+        <ui_action/>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_rens_yogesh_sf_test_applicat_task>
+</record_update>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8341de9a0fd203000c8dcd8ce1050e5f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_rens_yogesh_test_applicat_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request initiator is not done describing the work</hint>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf41de9a0fd203000c8dcd8ce1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request has been described by initiator and can be processed by approver</hint>
+            <inactive>false</inactive>
+            <label>Awaiting Approval</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f41de9a0fd203000c8dcd8ce1050e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request has been approved</hint>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b41de9a0fd203000c8dcd8ce1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request has been fully described by initiator and can be processed by qualifier</hint>
+            <inactive>false</inactive>
+            <label>Awaiting Qualification</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f41de9a0fd203000c8dcd8ce1050e5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request is fully qualified but work has not started yet</hint>
+            <inactive>false</inactive>
+            <label>Ready</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8341de9a0fd203000c8dcd8ce1050e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, pending staff acceptance</hint>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b41de9a0fd203000c8dcd8ce1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has started</hint>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8341de9a0fd203000c8dcd8ce1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has been completed to specification</hint>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>7</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f41de9a0fd203000c8dcd8ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work could not be completed as specified</hint>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>8</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b41de9a0fd203000c8dcd8ce1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Yogesh Test Applicat Request has been cancelled</hint>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sequence>9</sequence>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b41de9a0fd203000c8dcd8ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:15</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_rens_yogesh_test_applicat_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>cb41de9a0fd203000c8dcd8ce1050e4f</sys_id>
+            <sys_mod_count>15</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Yogesh Test Applicat" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Yogesh Test Applicat">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+            <sys_update_name>sys_choice_x_rens_yogesh_test_applicat_request_state</sys_update_name>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>05715ada0fd203000c8dcd8ce1050e45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ready</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_metadata_link_05715ada0fd203000c8dcd8ce1050e45</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:56</sys_updated_on>
+        <tablename>sys_choice</tablename>
+    </sys_metadata_link>
+</record_update>

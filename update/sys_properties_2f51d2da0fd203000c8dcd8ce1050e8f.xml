@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Morning rush hour span, formatted as 06:30-08:00</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_rens_yogesh.morning.rush.hours</name>
+        <read_roles>x_rens_yogesh_admin</read_roles>
+        <suffix>morning.rush.hours</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2f51d2da0fd203000c8dcd8ce1050e8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rens_yogesh.morning.rush.hours</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_properties_2f51d2da0fd203000c8dcd8ce1050e8f</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:34</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles>x_rens_yogesh_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=2f51d2da0fd203000c8dcd8ce1050e8f"/>
+</record_update>

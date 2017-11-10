@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>be61d6da0fd203000c8dcd8ce1050e0e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="kb_knowledge_base">
+    <kb_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_description/>
+        <card_color/>
+        <data_policy display_value="Data policy for Yogesh Test Applicat Knowledge knowledge base">b261d6da0fd203000c8dcd8ce1050e0f</data_policy>
+        <description>A default description for Yogesh Test Applicat Knowledge base</description>
+        <disable_category_editing>false</disable_category_editing>
+        <disable_commenting>false</disable_commenting>
+        <disable_suggesting>false</disable_suggesting>
+        <enable_socialqa>true</enable_socialqa>
+        <icon/>
+        <kb_managers/>
+        <kb_version>3</kb_version>
+        <mandatory_fields/>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <question_annotation/>
+        <retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be61d6da0fd203000c8dcd8ce1050e0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:47</sys_updated_on>
+        <table>kb_knowledge</table>
+        <template/>
+        <title>Yogesh Test Applicat Knowledge</title>
+        <workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+    </kb_knowledge_base>
+    <sys_translated_text action="delete_multiple" query="documentkey=be61d6da0fd203000c8dcd8ce1050e0e"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>joshua.leone</sys_created_by>
+        <sys_created_on>2017-11-10 08:56:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a1715ada0fd203000c8dcd8ce1050eb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Yogesh Test Applicat Knowledge</sys_name>
+        <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+        <sys_update_name>sys_metadata_link_a1715ada0fd203000c8dcd8ce1050eb5</sys_update_name>
+        <sys_updated_by>joshua.leone</sys_updated_by>
+        <sys_updated_on>2017-11-10 08:56:58</sys_updated_on>
+        <tablename>kb_knowledge_base</tablename>
+    </sys_metadata_link>
+</record_update>

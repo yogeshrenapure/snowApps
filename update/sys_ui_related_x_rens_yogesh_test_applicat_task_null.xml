@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_rens_yogesh_test_applicat_task" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>77611ada0fd203000c8dcd8ce1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>73611ada0fd203000c8dcd8ce1050e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sm_part_requirement.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>37611ada0fd203000c8dcd8ce1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>alm_transfer_order.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>b3611ada0fd203000c8dcd8ce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sm_asset_usage.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>fb611ada0fd203000c8dcd8ce1050e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sm_m2m_task_dependency.downstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>f7611ada0fd203000c8dcd8ce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>sm_m2m_task_dependency.upstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>33611ada0fd203000c8dcd8ce1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>sm_incidentals.parent_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>3f611ada0fd203000c8dcd8ce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>sm_m2m_task_contract.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>bb611ada0fd203000c8dcd8ce1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>REL:e8675c6947232100158b949b6c9a71db</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>b7611ada0fd203000c8dcd8ce1050e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yogesh Test Applicat Task - Default view" name="x_rens_yogesh_test_applicat_task" related_list="NULL" sys_domain="global" view="Default view">3f611ada0fd203000c8dcd8ce1050e0e</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>task_activity.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_id>ff611ada0fd203000c8dcd8ce1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Yogesh Test Applicat Task - Default view</calculated_name>
+            <filter/>
+            <name>x_rens_yogesh_test_applicat_task</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>joshua.leone</sys_created_by>
+            <sys_created_on>2017-11-10 08:56:51</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f611ada0fd203000c8dcd8ce1050e0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Yogesh Test Applicat Task - Default view</sys_name>
+            <sys_package display_value="Yogesh Test Application" source="x_rens_yogesh">46419e9a0fd203000c8dcd8ce1050eb9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Yogesh Test Application">46419e9a0fd203000c8dcd8ce1050eb9</sys_scope>
+            <sys_update_name>sys_ui_related_x_rens_yogesh_test_applicat_task_null</sys_update_name>
+            <sys_updated_by>joshua.leone</sys_updated_by>
+            <sys_updated_on>2017-11-10 08:56:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

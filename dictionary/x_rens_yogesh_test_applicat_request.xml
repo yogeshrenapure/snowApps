@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Yogesh Test Applicat Request" max_length="40" name="x_rens_yogesh_test_applicat_request" type="collection"/>
+</database>
